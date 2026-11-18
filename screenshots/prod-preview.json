@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bristol collision briefing",
+      "hasCanvas": false,
+      "bodyTextLen": 8472,
+      "bodyTextHash": "f7f7cd39a7aafbcd16426bff89906ec37f666b6e8a1508905df7e19de956d189",
+      "bodyTextPrefix": "PRESENTATION BRIEFING · BRISTOL Where recorded collisions concen",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bristol collision briefing",
+      "hasCanvas": false,
+      "bodyTextLen": 8472,
+      "bodyTextHash": "f7f7cd39a7aafbcd16426bff89906ec37f666b6e8a1508905df7e19de956d189",
+      "bodyTextPrefix": "PRESENTATION BRIEFING · BRISTOL Where recorded collisions concen",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prod-preview.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
